@@ -78,7 +78,9 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=GekotaTheFrog&show_icons=true&hide_border=true&bg_color=0b0509&title_color=ff4fa0&icon_color=ff7fbc&text_color=ffe3f0)
 
-
+<div align="center">
+<img src="pixel-strip.png" alt="pixel stickers" width="640">
+</div>
 
 </div>
 
